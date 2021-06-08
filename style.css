@@ -53,7 +53,6 @@ img {
 	border-style: none none none dashed;
 }
 
-
 /* recipe details */
 .recipe_details {
 	border: 5px solid red;
@@ -68,7 +67,6 @@ img {
 .recipe_details ul {
 	list-style-type: none;
 	margin-right: 20px;
-	/* 	border: 2px solid blue; */
 	margin-left: -20px;
 }
 
@@ -116,4 +114,10 @@ img {
 	list-style-type: none;
 	padding-left: 10px;
 	margin: 5px;
+}
+
+/* css author - I coded this css! */
+.css-author {
+	text-align: center;
+	margin-top: -10px;
 }
